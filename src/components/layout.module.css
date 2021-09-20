@@ -18,3 +18,10 @@
 .nav-link-text {
     color: black;
 }
+.site-title {
+    font-size: 2rem;
+    color: #9e2a2b;
+    font-weight:600;
+    margin: 3rem 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
