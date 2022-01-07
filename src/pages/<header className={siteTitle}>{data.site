@@ -1,0 +1,1 @@
+  <header className={siteTitle}>{data.site.siteMetadata.title}</header>
