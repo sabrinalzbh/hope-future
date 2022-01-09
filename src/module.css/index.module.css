@@ -1,28 +1,37 @@
 .sec1{
-    margin: auto;
-    background-color: #E0AB98;
-    background-size: cover;
+    margin: 0px;
+    padding: 40px ;
+    background-color: white;
+    
+    
     
 }
 .my-name{
     text-align: center;
     font-family: sans-serif;
+    margin: 50px;
+
 }
 .quote{
     font-style: italic;
     font-size: larger;
     text-align: center;
+    margin: 50px;
     
 }
 .intro{
     font-size: large;
     letter-spacing: normal;
+    margin: 50px;
 }
 .sec3{
-    background-color: #f8e4df;
+    background-color: #e3a706;
+    margin: 0px;
+    padding:20px;
     
 }
 .button{
     border: none;
     text-decoration: underline;
 }
+
